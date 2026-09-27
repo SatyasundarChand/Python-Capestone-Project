@@ -14,7 +14,7 @@ This repository hosts an end-to-end automated data pipeline built within **Jupyt
 * Synthesized operational cost metrics to track resource allocation and calculate corporate payouts.
 
 ## 🛠️ Tech Stack & Skills Validated
-* **Language:** Python 3.x
+* **Language:** Python 
 * **Core Libraries:** Pandas, NumPy
 * **Environment:** Jupyter Notebook
 * **Methodologies:** Data Imputation, ETL Architecture, Relational Joining, Vectorization
